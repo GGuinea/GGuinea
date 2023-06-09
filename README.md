@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @GGuinea
-- 👀 Give me a solution, I'll give you a problem
+The only constant in life is change.
